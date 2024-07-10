@@ -1,2 +1,1 @@
-# Yash-tech-swif-package
-Swift package
+# swift-package-demo-yash-tech
